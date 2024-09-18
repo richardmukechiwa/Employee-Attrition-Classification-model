@@ -56,7 +56,7 @@ The following preprocessing steps were applied to prepare the data for machine l
 - **Feature Scaling:**  - Continuous variables such as Years at Company, and Age were normalized to ensure they contribute equally to the model.
                         - The Monthly Income column was converted to groups to reduce cardinality
   
-- **Feature Selection:** Based on domain knowledge and exploratory data analysis, features with high impact on the target variable (attrition) were selected. These included Work-Life Balance, Job Satisfaction, Performance Rating, and Job Role.
+- **Feature Selection:** Based on domain knowledge and exploratory data analysis, features with high impact on the target variable (attrition) were selected. These included Work-Life Balance, Job Level, Number of promotions, Gender and Remote Working option.
 
 
 ### **Model Building**
