@@ -117,4 +117,4 @@ This project successfully demonstrates how to build, train, and deploy a machine
 **Integration:** Integrating this app into a larger HR dashboard for real-time attrition prediction and analysis.
 
 ### **How to Access the App**
-You can access the deployed Streamlit app . It is user-friendly and allows for easy interaction with the model.
+You can access the deployed Streamlit app here t.ly/UlMBw. It is user-friendly and allows for easy interaction with the model.
