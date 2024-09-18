@@ -38,6 +38,7 @@ The dataset used for this project contains employee records with multiple featur
 - Innovation Opportunities
 - Company Reputation
 - Employee Recognition
+  
  -_Attrition (target variable)_
 
 
