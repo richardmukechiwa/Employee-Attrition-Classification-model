@@ -9,8 +9,12 @@ The project was developed in Python and deployed using Streamlit, with the prima
 
 The objective of this project is to develop a predictive model that accurately classifies employees into two categories: Stayed or Left, based on historical data. This model can assist human resource departments in identifying employees at risk of leaving the organization.
 
-Project Workflow
-1. Data Collection
+### Project Workflow
+
+#### **Data Collection**
+
+**Source Link:** https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset
+
 The dataset used for this project contains employee records with multiple features. Some of the key columns include:
 
 Employee ID
