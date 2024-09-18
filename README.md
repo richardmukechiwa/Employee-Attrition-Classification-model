@@ -17,7 +17,7 @@ The objective of this project is to develop a predictive model that accurately c
 
 The dataset used for this project contains employee records with multiple features. Some of the key columns include:
 
-- Employee ID
+
 - Age
 - Gender
 - Years at Company
