@@ -1,5 +1,5 @@
 # Employee Attrition Classification Model
-https://t.ly/iD81A
+
 Employee attrition is a critical challenge for many organizations. Predicting whether an employee will stay or leave can help businesses take proactive measures to improve retention and reduce turnover costs. This project focuses on building a machine learning model that classifies whether an employee is likely to stay or leave based on various features such as job satisfaction, performance rating, income, and more.
 
 The project was developed in Python and deployed using Streamlit, with the primary goal of providing a user-friendly interface for predicting employee attrition.
@@ -12,7 +12,8 @@ The objective of this project is to develop a predictive model that accurately c
 
 #### **Data Collection**
 
-**Source Link:** https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset
+**Source:** Kaggle
+**Link:** https://t.ly/iD81A
 
 The dataset used for this project contains employee records with multiple features. Some of the key columns include:
 
