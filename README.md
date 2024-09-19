@@ -112,17 +112,22 @@ The GitHub repository for this project contains the following files:
 
 - Employees under the age of 30 show a significantly higher likelihood of leaving the organization. This suggests that future talent is at risk of being lost.
 
-<Recommendation:> Implement targeted retention strategies, such as clear career development plans and mentorship opportunities, to engage and retain younger employees.
-Non-Remote Workers are More Likely to Leave
-Non-remote employees exhibit higher attrition rates compared to their remote counterparts.
+**Recommendation:** Implement targeted retention strategies, such as clear career development plans and mentorship opportunities, to engage and retain younger employees.
 
-Recommendation: Consider a balanced approach to remote and non-remote work to accommodate diverse work preferences and reduce potential turnover.
-Key Influencers: Job Level, Remote Work, Gender, and Work-Life Balance
-Factors such as job level, the ability to work remotely, gender, and work-life balance have a pronounced impact on employee attrition.
+**Non-Remote Workers are More Likely to Leave**
 
-Job Level: Engage junior-level employees in strategic initiatives to increase their sense of inclusion and respect within the organization.
-Gender: Attrition rates are notably higher among women, highlighting a need to investigate gender-related concerns, including career advancement and work-life balance.
-Work-Life Balance: Prioritize work-life balance through initiatives such as flexible scheduling, staff rotations, and structured vacation policies to mitigate attrition risks.
+- Non-remote employees exhibit higher attrition rates compared to their remote counterparts.
+
+**Recommendation:** Consider a balanced approach to remote and non-remote work to accommodate diverse work preferences and reduce potential turnover.
+
+**Key Influencers:** - Job Level, Remote Work, Gender, and Work-Life Balance
+  
+- Factors such as job level, the ability to work remotely, gender, and work-life balance have a pronounced impact on employee attrition.
+
+**Job Level:** - Engage junior-level employees in strategic initiatives to increase their sense of inclusion and respect within the organization.
+  
+**Gender:** - Attrition rates are notably higher among women, highlighting a need to investigate gender-related concerns, including career advancement and work-life balance.
+**Work-Life Balance:** - Prioritize work-life balance through initiatives such as flexible scheduling, staff rotations, and structured vacation policies to mitigate attrition risks.
 
 ### **Conclusion**
 
