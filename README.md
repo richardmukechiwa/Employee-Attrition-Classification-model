@@ -127,6 +127,7 @@ The GitHub repository for this project contains the following files:
 **Job Level:** - Engage junior-level employees in strategic initiatives to increase their sense of inclusion and respect within the organization.
   
 **Gender:** - Attrition rates are notably higher among women, highlighting a need to investigate gender-related concerns, including career advancement and work-life balance.
+
 **Work-Life Balance:** - Prioritize work-life balance through initiatives such as flexible scheduling, staff rotations, and structured vacation policies to mitigate attrition risks.
 
 ### **Conclusion**
