@@ -13,7 +13,7 @@ The objective of this project is to develop a predictive model that accurately c
 #### **Data Collection**
 
 **Source:** Kaggle
-**Link:** https://t.ly/iD81A
+**Link:** https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset
 
 The dataset used for this project contains employee records with multiple features. Some of the key columns include:
 
