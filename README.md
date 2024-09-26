@@ -141,7 +141,7 @@ This project successfully demonstrates how to build, train, and deploy a machine
 **Integration:** Integrating this app into a larger HR dashboard for real-time attrition prediction and analysis.
 
 ### **How to Access the App**
-- You can access the deployed Streamlit app here https://t.ly/uWETi
+- You can access the deployed Streamlit app here https://employee-attrition-classification-model-kan8us6obmmpjgupexvjee.streamlit.app/
 - It is user-friendly and allows for easy interaction with the model.
 - A user can choose the option that an employ has and click the predict option below the app and a prediction of whether the employee will stay or leav will appear
 
